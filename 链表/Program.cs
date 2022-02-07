@@ -1,0 +1,10 @@
+﻿using 链表;
+MyLinkedList myLinkedList = new MyLinkedList();
+myLinkedList.Add(1);
+myLinkedList.Add(2);
+myLinkedList.Add(3);
+myLinkedList.Add(4);
+myLinkedList.Insert(1, 5);
+myLinkedList.OutPut();
+myLinkedList.Remove(1);
+myLinkedList.OutPut();

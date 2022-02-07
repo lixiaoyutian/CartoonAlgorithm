@@ -1,0 +1,17 @@
+﻿using 数组;
+using static System.Console;
+MyArray myArray = new MyArray(5);
+myArray.InsertArray(0, 1);
+myArray.InsertArray(1, 2);
+myArray.InsertArray(2, 3);
+myArray.InsertArray(3, 4);
+myArray.InsertArray(4, 5);
+myArray.OutPutArray();
+WriteLine(myArray.Size);
+myArray.InsertArray(1, 6);
+myArray.OutPutArray();
+WriteLine(myArray.Size);
+myArray.DeleteArray(2);
+myArray.OutPutArray();
+WriteLine(myArray.Size);
+myArray.InsertArray(9, 10);
