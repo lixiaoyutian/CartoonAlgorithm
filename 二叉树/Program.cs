@@ -1,0 +1,13 @@
+﻿using System.Collections;
+using static System.Console;
+using 二叉树;
+TreeNodeManage treeNode = new TreeNodeManage(new List<int?> { 3, 2, 9, null, null, 10, null, null, 8, null, 4 });
+treeNode.Traveral(1);
+WriteLine();
+treeNode.Traveral(2);
+WriteLine();
+treeNode.Traveral(3);
+WriteLine();
+treeNode.Traveral(4);
+WriteLine();
+treeNode.Traveral(5);

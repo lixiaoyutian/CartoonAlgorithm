@@ -11,3 +11,15 @@
     * EnQueue（入队）
     * DeQueue（出队）
     * OutPut（输出队列）
+  
+2022-02-08
+===
+1. 完成二叉树  
+ 二叉树方法包括：  
+   * CreateTreeNode（创建二叉树）
+   * Traveral（遍历二叉树）
+   * preTraveral（前序遍历）
+   * inTraveral（中序遍历）
+   * postTraveral（后序遍历）
+   * stackPreTraveral（堆栈前序遍历）
+   * queuePreTraveral（队列层次遍历）
