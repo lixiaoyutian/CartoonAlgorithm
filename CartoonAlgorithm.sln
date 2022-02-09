@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "队列", "队列\队列.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树", "二叉树\二叉树.csproj", "{DB93DD16-931B-4189-85EE-BFB2D2017779}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉堆", "二叉堆\二叉堆.csproj", "{171DE9C6-9885-43D3-A4D5-C9F3F73EA67C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{DB93DD16-931B-4189-85EE-BFB2D2017779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB93DD16-931B-4189-85EE-BFB2D2017779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB93DD16-931B-4189-85EE-BFB2D2017779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171DE9C6-9885-43D3-A4D5-C9F3F73EA67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171DE9C6-9885-43D3-A4D5-C9F3F73EA67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171DE9C6-9885-43D3-A4D5-C9F3F73EA67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171DE9C6-9885-43D3-A4D5-C9F3F73EA67C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

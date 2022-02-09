@@ -22,4 +22,12 @@
    * inTraveral（中序遍历）
    * postTraveral（后序遍历）
    * stackPreTraveral（堆栈前序遍历）
-   * queuePreTraveral（队列层次遍历）
+   * queuePreTraveral（队列层次遍历）  
+  
+2022-02-09
+===
+1. 完成二叉堆  
+   二叉堆方法包括：  
+   * UpAdjust （二叉堆上浮）
+   * DownAdjust （二叉堆下沉）
+   * buildHeap （构造二叉堆）
