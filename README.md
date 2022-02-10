@@ -30,4 +30,16 @@
    二叉堆方法包括：  
    * UpAdjust （二叉堆上浮）
    * DownAdjust （二叉堆下沉）
-   * buildHeap （构造二叉堆）
+   * buildHeap （构造二叉堆）  
+  
+2022-02-10
+===
+1. 完成二叉堆队列(最大堆)  
+   方法包括：  
+   * EnQueue（入队）  
+   * DeQueue（出队）  
+   * UpAdjust（上浮）  
+   * DownAdjust（下沉）  
+   * ReSize（扩容）  
+   
+

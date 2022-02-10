@@ -1,0 +1,10 @@
+﻿using 二叉堆队列;
+using static System.Console;
+PriorityQueue priorityQueue = new PriorityQueue();
+priorityQueue.EnQueue(3);
+priorityQueue.EnQueue(5);
+priorityQueue.EnQueue(10);
+priorityQueue.EnQueue(2);
+priorityQueue.EnQueue(7);
+WriteLine(priorityQueue.DeQueue());
+WriteLine(priorityQueue.DeQueue());
