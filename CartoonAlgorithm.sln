@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "鸡尾酒排序", "鸡尾�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "快速排序", "快速排序\快速排序.csproj", "{1BBECBD1-FD4D-433B-99AD-139A7C9FBE31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "堆排序", "堆排序\堆排序.csproj", "{32395834-98FA-4760-8CC8-B8D1E4BA1B5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{1BBECBD1-FD4D-433B-99AD-139A7C9FBE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BBECBD1-FD4D-433B-99AD-139A7C9FBE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BBECBD1-FD4D-433B-99AD-139A7C9FBE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32395834-98FA-4760-8CC8-B8D1E4BA1B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32395834-98FA-4760-8CC8-B8D1E4BA1B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32395834-98FA-4760-8CC8-B8D1E4BA1B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32395834-98FA-4760-8CC8-B8D1E4BA1B5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
