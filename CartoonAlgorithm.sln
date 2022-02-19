@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "堆排序", "堆排序\堆�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计数排序", "计数排序\计数排序.csproj", "{06C405BF-3C12-4CCC-93E5-FD33C634A1DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "桶排序", "桶排序\桶排序.csproj", "{129AE973-8E7F-47BE-A6F6-394E5789C333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{06C405BF-3C12-4CCC-93E5-FD33C634A1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06C405BF-3C12-4CCC-93E5-FD33C634A1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06C405BF-3C12-4CCC-93E5-FD33C634A1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129AE973-8E7F-47BE-A6F6-394E5789C333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129AE973-8E7F-47BE-A6F6-394E5789C333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129AE973-8E7F-47BE-A6F6-394E5789C333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129AE973-8E7F-47BE-A6F6-394E5789C333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
