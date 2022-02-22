@@ -1,0 +1,15 @@
+﻿using 最小栈;
+using static System.Console;
+MinStack minStack = new MinStack();
+minStack.Push(4);
+minStack.Push(9);
+minStack.Push(7);
+minStack.Push(3);
+minStack.Push(8);
+minStack.Push(5);
+WriteLine(minStack.GetMinValue());
+minStack.Pop();
+minStack.Pop();
+minStack.Pop();
+minStack.Pop();
+WriteLine(minStack.GetMinValue());
