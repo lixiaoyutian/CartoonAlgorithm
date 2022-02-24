@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最小栈", "最小栈\最�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大公约数", "最大公约数\最大公约数.csproj", "{FE77B300-BA4B-4B9B-9835-5F201356C74B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "判断一个数是否为2的整数次幂", "判断一个数是否为2的整数次幂\判断一个数是否为2的整数次幂.csproj", "{A6674C24-F6FC-409D-A0AA-21D08044B863}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{FE77B300-BA4B-4B9B-9835-5F201356C74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE77B300-BA4B-4B9B-9835-5F201356C74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE77B300-BA4B-4B9B-9835-5F201356C74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6674C24-F6FC-409D-A0AA-21D08044B863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6674C24-F6FC-409D-A0AA-21D08044B863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6674C24-F6FC-409D-A0AA-21D08044B863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6674C24-F6FC-409D-A0AA-21D08044B863}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
