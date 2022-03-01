@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "判断一个数是否为2�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "无序数组排序后的最大相邻差", "无序数组排序后的最大相邻差\无序数组排序后的最大相邻差.csproj", "{EE5908BC-4A4C-4C40-AFC7-B87F7BE05C5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "用栈实现队列", "用栈实现队列\用栈实现队列.csproj", "{431F7DDD-7968-40E2-9DCF-064947D9BC81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{EE5908BC-4A4C-4C40-AFC7-B87F7BE05C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE5908BC-4A4C-4C40-AFC7-B87F7BE05C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE5908BC-4A4C-4C40-AFC7-B87F7BE05C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431F7DDD-7968-40E2-9DCF-064947D9BC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431F7DDD-7968-40E2-9DCF-064947D9BC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431F7DDD-7968-40E2-9DCF-064947D9BC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431F7DDD-7968-40E2-9DCF-064947D9BC81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
