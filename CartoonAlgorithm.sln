@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "无序数组排序后的最
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "用栈实现队列", "用栈实现队列\用栈实现队列.csproj", "{431F7DDD-7968-40E2-9DCF-064947D9BC81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "寻找全排列的下一个数", "寻找全排列的下一个数\寻找全排列的下一个数.csproj", "{101EABFD-3DFE-4496-A94D-D9918EA91A99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{431F7DDD-7968-40E2-9DCF-064947D9BC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{431F7DDD-7968-40E2-9DCF-064947D9BC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{431F7DDD-7968-40E2-9DCF-064947D9BC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101EABFD-3DFE-4496-A94D-D9918EA91A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101EABFD-3DFE-4496-A94D-D9918EA91A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101EABFD-3DFE-4496-A94D-D9918EA91A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101EABFD-3DFE-4496-A94D-D9918EA91A99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
