@@ -57,4 +57,8 @@ struct Bucket
 {
     public int? min = null;
     public int? max = null;
+    public Bucket()
+    {
+
+    }
 }

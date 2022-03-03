@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "用栈实现队列", "用�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "寻找全排列的下一个数", "寻找全排列的下一个数\寻找全排列的下一个数.csproj", "{101EABFD-3DFE-4496-A94D-D9918EA91A99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "删去K个数字后的最小值", "删去K个数字后的最小值\删去K个数字后的最小值.csproj", "{B629642C-CCDE-43BA-9A1A-92F65AFD2947}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{101EABFD-3DFE-4496-A94D-D9918EA91A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{101EABFD-3DFE-4496-A94D-D9918EA91A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{101EABFD-3DFE-4496-A94D-D9918EA91A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B629642C-CCDE-43BA-9A1A-92F65AFD2947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B629642C-CCDE-43BA-9A1A-92F65AFD2947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B629642C-CCDE-43BA-9A1A-92F65AFD2947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B629642C-CCDE-43BA-9A1A-92F65AFD2947}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
