@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "寻找全排列的下一个
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "删去K个数字后的最小值", "删去K个数字后的最小值\删去K个数字后的最小值.csproj", "{B629642C-CCDE-43BA-9A1A-92F65AFD2947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "大整数相加", "大整数相加\大整数相加.csproj", "{C758744C-E374-4570-86B0-33ECAD31926D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{B629642C-CCDE-43BA-9A1A-92F65AFD2947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B629642C-CCDE-43BA-9A1A-92F65AFD2947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B629642C-CCDE-43BA-9A1A-92F65AFD2947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C758744C-E374-4570-86B0-33ECAD31926D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C758744C-E374-4570-86B0-33ECAD31926D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C758744C-E374-4570-86B0-33ECAD31926D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C758744C-E374-4570-86B0-33ECAD31926D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
