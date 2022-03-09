@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "删去K个数字后的最�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "大整数相加", "大整数相加\大整数相加.csproj", "{C758744C-E374-4570-86B0-33ECAD31926D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "金矿问题", "金矿问题\金矿问题.csproj", "{A6F8F5FA-6E7D-4D36-904F-CE3D72AE0F33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{C758744C-E374-4570-86B0-33ECAD31926D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C758744C-E374-4570-86B0-33ECAD31926D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C758744C-E374-4570-86B0-33ECAD31926D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F8F5FA-6E7D-4D36-904F-CE3D72AE0F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F8F5FA-6E7D-4D36-904F-CE3D72AE0F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F8F5FA-6E7D-4D36-904F-CE3D72AE0F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F8F5FA-6E7D-4D36-904F-CE3D72AE0F33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
